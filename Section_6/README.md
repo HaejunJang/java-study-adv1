@@ -72,7 +72,9 @@ static class MyTask implements Runnable {
 
 ### Voatile 적용
 
-![image.png](attachment:efeb524c-5c33-47e5-98c3-5f8964ec3d0d:image.png)
+<p align="left">
+    <img src="image3.png" height="300">
+</p>
 
 volatile이라는 키워드를 사용하여 변수를 사용하면 된다
 
